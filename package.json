@@ -1,0 +1,25 @@
+{
+  "name": "node-random-hash",
+  "version": "0.0.0",
+  "description": "Function to generate a secure hash sha1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alexgroove/node-random-hash.git"
+  },
+  "keywords": [
+    "hash",
+    "sha1",
+    "random"
+  ],
+  "author": "Alexandre Page",
+  "license": "MIT",
+  "readmeFilename": "README",
+  "gitHead": "7de2e4b788fe704bfb3c53e8d6f8315621feed38",
+  "bugs": {
+    "url": "https://github.com/alexgroove/node-random-hash/issues"
+  }
+}
